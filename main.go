@@ -1,1 +1,3 @@
+package amin
+
 func main()  {}
